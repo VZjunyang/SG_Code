@@ -2,3 +2,5 @@ env
 Images
 __pycache__
 *.csv
+test.ipynb
+README.md
